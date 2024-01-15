@@ -1,0 +1,30 @@
+body {
+   margin: 50px 120px 120px;
+}
+
+nav {
+   display: flex;
+   justify-content: space-between;
+}
+
+span {
+   color: #FF5400;
+}
+
+nav>ul {
+   display: flex;
+}
+
+nav li {
+   list-style: none;
+   margin-right: 30px;
+}
+
+nav li a {
+   text-decoration: none;
+   color: #424247;
+}
+
+.botton {
+ width: 174px;
+}
