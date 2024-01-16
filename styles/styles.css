@@ -25,6 +25,68 @@ nav li a {
    color: #424247;
 }
 
-.botton {
- width: 174px;
+.Explore {
+   padding-top: 100px;
+   text-align: center;
+   background-image: url('../Images/Group\ 13\ \(1\)\ \(1\).png');
+   width: 100%;
+   height: 400px;
+}
+
+.South{
+   color: #FFF;
+}
+
+.Where {
+   text-align: left;
+   width: 174px;
+   height: 52px;
+   border-radius: 8px;
+   background: #FFF;
+}
+
+.btn-primary {
+   width: 174px;
+   height: 52px;
+   border-radius: 8px;
+   background: #FF5400;
+}
+/* main section start */
+
+.Read{
+   width: 174px;
+   height: 52px;
+   border-radius: 8px;
+   background: #FF5400;
+}
+
+
+.Popular-Village{
+   gap: 50px;
+   padding-top: 100px;
+   display: flex;
+}
+
+.Choose {
+   padding-top: 100px;
+   text-align: center;
+}
+.cycle{
+ text-align: center;
+}
+
+.basic-img{
+   padding-top: 50px;
+  display: flex; 
+  gap: 20px;
+}
+.medium-img{
+   padding-top: 20px;
+   display: flex;
+   gap: 20px;
+}
+.high-img{
+   padding-top: 20px;
+   display: flex;
+   gap: 20px;
 }
