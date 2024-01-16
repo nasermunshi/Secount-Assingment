@@ -90,3 +90,7 @@ nav li a {
    display: flex;
    gap: 20px;
 }
+.community{
+   padding-top: 100px;
+   text-align: center;
+}
